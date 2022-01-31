@@ -16,4 +16,4 @@ Membership in DAOs is typically restricted either by ownership of ERC20 tokens, 
 
 This app is launched for holders of CryptoDevs NFTs. From the ETH that was gained through the ICO, A  DAO Treasury was built. The DAO now has a lot of ETH, but currently does nothing with it.
 
-This app is  to allow your NFT holders to create and vote on proposals to use that ETH for purchasing other NFTs from an NFT marketplace, and speculate on price. In the future when the the NFT is sold  back, The profit can be splitted among all members of the DAO.
+This app is  to allow crypto NFT holders to create and vote on proposals to use that ETH for purchasing other NFTs from an NFT marketplace, and speculate on price. In the future when the the NFT is sold  back, The profit can be splitted among all members of the DAO.
