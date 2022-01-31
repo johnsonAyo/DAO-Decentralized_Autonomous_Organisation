@@ -1,1 +1,4 @@
 # DAO--decentralized-Autonomous-Organisation
+
+FakeNFTMarketplace deployed to:  0x88ee8b69DE71a17939E57f3c87C194A3B8155143
+CryptoDevsDAO deployed to:  0xf821Edb5fcd95616DA119134354cD57465a09E1e
