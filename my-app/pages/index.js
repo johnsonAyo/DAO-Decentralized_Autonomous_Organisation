@@ -347,10 +347,10 @@ export default function Home() {
 
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Crypto Devs!</h1>
+          <h1 className={styles.title}>Welcome to Genesis Dao!</h1>
           <div className={styles.description}>Welcome to the DAO!</div>
           <div className={styles.description}>
-            Your CryptoDevs NFT Balance: {nftBalance}
+            Your Genesis NFT Balance: {nftBalance}
             <br />
             Treasury Balance: {formatEther(treasuryBalance)} ETH
             <br />
@@ -373,12 +373,15 @@ export default function Home() {
           {renderTabs()}
         </div>
         <div>
-          <img className={styles.image} src="/cryptodevs/0.svg" />
+          <img className={styles.image} src="https://cryptorobin.com/wp-content/uploads/2021/09/5f91b476c54bd25f111919ec_Artboard-10.png" />
         </div>
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by Crypto Devs
+        Made with &#10084; by &nbsp; 
+        <a href="https://me-johnsonayo.vercel.app/">
+          <strong>Johnson Afuye</strong>{" "}
+        </a>
       </footer>
     </div>
   );
